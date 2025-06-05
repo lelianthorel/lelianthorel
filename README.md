@@ -12,4 +12,4 @@ Hi, I’m a computer science student. I’m a geek and a gamer in my spare time,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelianthorel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=virtuozos&gstats=show&style=punk)
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=virtuozos&gstats=show&style=midnight)
