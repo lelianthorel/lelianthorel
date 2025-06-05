@@ -11,3 +11,5 @@ Hi, I’m a computer science student. I’m a geek and a gamer in my spare time,
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lelianthorel&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelianthorel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=virtuozos&gstats=show&style=punk)
