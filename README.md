@@ -9,18 +9,6 @@
 </p>
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lelianthorel&theme=dark&background=000000" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelianthorel&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
-
----
-
 <h2 align="center">🛡️ Root-Me Stats</h2>
 
 <p align="center">
